@@ -1,14 +1,13 @@
 {
-  "main.css": "/board-price/static/css/main.6f49f4ac.chunk.css",
-  "main.js": "/board-price/static/js/main.2bdcdbb6.chunk.js",
-  "main.js.map": "/board-price/static/js/main.2bdcdbb6.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/board-price/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/board-price/static/js/1.4a34e45d.chunk.js.map",
+  "main.css": "/board-price/static/css/main.0ae0fa5f.chunk.css",
+  "main.js": "/board-price/static/js/main.583b7568.chunk.js",
+  "main.js.map": "/board-price/static/js/main.583b7568.chunk.js.map",
+  "static/js/1.f715b2e0.chunk.js": "/board-price/static/js/1.f715b2e0.chunk.js",
+  "static/js/1.f715b2e0.chunk.js.map": "/board-price/static/js/1.f715b2e0.chunk.js.map",
   "runtime~main.js": "/board-price/static/js/runtime~main.036fc34d.js",
   "runtime~main.js.map": "/board-price/static/js/runtime~main.036fc34d.js.map",
-  "static/media/logo.svg": "/board-price/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6f49f4ac.chunk.css.map": "/board-price/static/css/main.6f49f4ac.chunk.css.map",
+  "static/css/main.0ae0fa5f.chunk.css.map": "/board-price/static/css/main.0ae0fa5f.chunk.css.map",
   "index.html": "/board-price/index.html",
-  "precache-manifest.ee376b21b7f43d38008262d78bdbba8b.js": "/board-price/precache-manifest.ee376b21b7f43d38008262d78bdbba8b.js",
+  "precache-manifest.b7d6f7a9a45a96041462c07aba6fb1a7.js": "/board-price/precache-manifest.b7d6f7a9a45a96041462c07aba6fb1a7.js",
   "service-worker.js": "/board-price/service-worker.js"
 }
